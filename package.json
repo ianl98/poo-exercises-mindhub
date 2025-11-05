@@ -1,0 +1,25 @@
+{
+  "name": "poo-exercises-mindhub",
+  "version": "1.0.0",
+  "description": "Ejecicios de POO para el curso de fundamentos y arquitectura de software de mindhub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianl98/poo-exercises-mindhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianl98/poo-exercises-mindhub/issues"
+  },
+  "homepage": "https://github.com/ianl98/poo-exercises-mindhub#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
